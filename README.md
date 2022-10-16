@@ -1,4 +1,4 @@
-- 👋 Hi, I’m İbrahim, a lecturer working on Computer Vision researcher at Sakarya University.
+- 👋 Hi, I’m İbrahim, a lecturer and Computer Vision researcher at Sakarya University.
 - 👀 I’m interested in classical/custom image processing, object detection/tracking, motion detection and machine learning.
 <!---- 🌱 I’m currently learning ...
 --->
