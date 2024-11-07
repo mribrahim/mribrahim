@@ -1,5 +1,7 @@
-- 👋 Hi, I’m İbrahim, a lecturer and Computer Vision researcher at Sakarya University.
-- 👀 I’m interested in classical/custom image processing, object detection/tracking, motion detection and machine learning.
+- 👋 Hi, I’m İbrahim, a postdoctoral researcher at Linköping University.
+<!--- 👋 Hi, I’m İbrahim, a lecturer and Computer Vision researcher at Sakarya University. --->
+- 👀 I’m interested in classical/custom image processing, object detection/tracking, moving object detection (the challenge in for moving cameras!) and machine learning.
+- 👀 Since starting my postdoc in February 2024, my focus has shifted toward applying AI industrial applications, with an emphasis on detailed time series analysis, including forecasting, anomaly detection, and explainable AI for time series.
 <!---- 🌱 I’m currently learning ...
 --->
 - 💞️ I’m opened to collaborate on your custom projects as an academical work and/or freelance support.
